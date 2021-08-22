@@ -5,4 +5,4 @@ The Unbreakable Password Generate will randomly generate you a password of your 
 
 Made with will power, HTML CSS and JavaScript
 
-![pass-word-generator](./Desktop/UnbreakablePaswordGenerator/assets/HW3.png)
+![pass-word-generator](./Desktop/Users/ForrestPangle/UnbreakablePaswordGenerator/assets/HW3.png)
